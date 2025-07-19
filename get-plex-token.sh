@@ -34,7 +34,7 @@ extract_token() {
             echo "$token"
             echo "================================================================================"
             echo ""
-            echo "Copy this token and paste it into JellEmPlex Dedupe"
+            echo "Copy this token and paste it into JellEmPlex Dedupe or other containers that need the Plex token"
             echo "Token found in: $prefs_file"
             return 0
         fi
