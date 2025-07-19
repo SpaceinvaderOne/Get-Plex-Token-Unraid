@@ -1,0 +1,42 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Runtime files
+*.pid
+
+# Test output
+test-results/
+coverage/
+
+# Personal notes
+notes.txt
+todo.txt
