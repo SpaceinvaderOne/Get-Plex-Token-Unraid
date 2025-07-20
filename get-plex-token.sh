@@ -14,6 +14,7 @@ PLEX_CONTAINERS=(
     "plexinc-pms-docker:/config"
     "linuxserver-plex:/config"
     "lscr.io/linuxserver/plex:/config"
+    "plexinc/pms-docker:/config"
 )
 
 echo "==========================================="
